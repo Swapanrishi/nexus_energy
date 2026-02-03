@@ -19,5 +19,6 @@ A world-class IoT dashboard featuring real-time telemetry, device lifecycle mana
 2. Ensure you have your `API_KEY` set for Gemini functionality.
 3. Open `index.html` or use a development server like Vite/ESBuild.
 
+##Demo
+https://nexus-iot-dashboard-iota.vercel.app/
 ---
-Built with excellence for modern industrial IoT needs.
